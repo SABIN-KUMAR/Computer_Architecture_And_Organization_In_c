@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
+#include<math.h>
+#include<stdlib.h>
 
 // Function to convert decimal to binary
 int decimalToBinary(int decimal) {
